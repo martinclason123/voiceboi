@@ -1,0 +1,13 @@
+.article__wrapper {
+    background-color: #0C0C0C;   
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100vw;
+}
+
+.article {
+    width: 70%;
+    min-height: 100vh;
+    background-color: var(--color-gray);
+}
